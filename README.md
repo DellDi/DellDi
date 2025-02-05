@@ -1,55 +1,63 @@
-# 欢迎来到我的 GitHub 主页 
-
-我是 **[你的名字]**，一名 **[你的身份/职业]**。热爱编程，热衷于探索未知技术，喜欢 **[你的兴趣]**。
-
-## 简介
-
-[在这里写一段简洁的自我介绍，突出你的个性和特点。]
-
-### 我的技能栈
-
 <p align="center">
-  [使用 Shields.io 或其他工具生成你的技术栈图表，展示你掌握的编程语言、框架、工具等。]
-  [示例：https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E]
-  [更多 Shields 图标：https://shields.io/]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile!;Full-Stack+Developer;Tech+Enthusiast;Open+Source+Contributor" alt="动态打字效果标题" />
 </p>
 
-### 核心项目
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=DellDi&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DellDi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
-[展示你最活跃、最有代表性的项目，包括项目名称、简介、链接等。可以使用动图或视频展示项目效果。]
+## 🚀 技术栈 & 工具
 
-* **[项目名称 1]**: [项目简介] ([项目链接])
-* **[项目名称 2]**: [项目简介] ([项目简介])
-* **[项目名称 3]**: [项目简介] ([项目链接])
+### 编程语言
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 活跃度
+### 前端技术
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-[使用 GitHub Readme Stats 或其他工具生成你的 GitHub 贡献图，展示你的代码提交、Issue 和 PR 等活动。]
+### 后端技术
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p align="center">
-  [GitHub Readme Stats 图表]
-  [示例：https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true]
-  [更多 GitHub Readme Stats 配置：https://github.com/anuraghazra/github-readme-stats]
-</p>
+## 🌟 明星项目
 
-### 兴趣爱好
+| 项目 | 描述 | 技术栈 | 演示 |
+|------|------|--------|------|
+| **[AI Assistant](https://github.com/...)** | 基于GPT-4的智能助手 | Python, FastAPI, React | ![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThkYjM0MTBmYzExOTQyZmNlMTA0ODFmMjU5Y2EwYzQxN2UyYjhlOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/du3J3cXyzhj75IOgvA/giphy.gif) |
+| **[E-Commerce Platform](https://github.com/...)** | 全栈电商平台 | TypeScript, Next.js, NestJS | ![Demo](https://media.giphy.com/media/.../giphy.gif) |
 
-[介绍你的兴趣爱好，可以是技术相关的，也可以是生活相关的。可以使用图片、动图或表情符号来增加趣味性。]
+## 📈 活跃度统计
 
-* **[兴趣 1]**: [描述你的兴趣，可以分享一些你的见解或经验。]
-* **[兴趣 2]**: [描述你的兴趣，可以分享一些你的见解或经验。]
-* **[兴趣 3]**: [描述你的兴趣，可以分享一些你的见解或经验。]
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DellDi&theme=github-dark&area=true&hide_border=true)
+  
+</div>
 
-### 联系我
+## 🎯 近期目标
 
-[提供你的联系方式，如邮箱、社交媒体链接等。]
+- [x] 完成分布式系统课程
+- [ ] 发布 React 组件库
+- [ ] 获得 AWS 认证
 
-* 邮箱：[你的邮箱地址]
-* GitHub：[@你的 GitHub 用户名](https://github.com/[你的 GitHub 用户名])
-* [其他社交媒体链接]
+## 🤖 趣味数据
 
----
+```text
+🌱 本周编码时长:   25 hrs 30 mins
+📚 正在学习:      Rust & WebAssembly
+🎵 当前播放:      Coding Lofi Hip Hop
+```
 
-## 英文版 README (补充 GitHub Readme Stats 和 Shields)
+## 📫 联系我
 
-```markdown
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:delldi808611@outlook.com)
+
+
+⭐ 来自 [DellDi](https://github.com/DellDi) | 最后更新于: ![Last Updated](https://img.shields.io/github/last-commit/DellDi/DellDi?label=&style=flat)
