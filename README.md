@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DellDi)](https://git.io/streak-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=DellDi&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DellDi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
