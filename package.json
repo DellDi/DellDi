@@ -1,0 +1,24 @@
+{
+  "name": "delldi",
+  "version": "0.1.0",
+  "description": "DellDi项目工具集",
+  "main": "index.js",
+  "scripts": {
+    "coding-time": "ts-node scripts/coding-time.ts",
+    "coding-time:py": "python scripts/coding_time.py"
+  },
+  "keywords": [
+    "productivity",
+    "coding-stats"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
