@@ -3,10 +3,10 @@
 </p>
 
 <div align="center">
-  
+
   [![GitHub Streak](https://streak-stats.demolab.com?user=DellDi&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DellDi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
+
 </div>
 
 ## 🚀 Tech Stack & Tools
@@ -23,22 +23,23 @@
 
 ### Backend Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-092E20?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🌟 Featured Projects
 
 | Project | Description | Tech Stack | Demo |
 |---------|-------------|------------|------|
-| **[AI Assistant](https://github.com/...)** | GPT-4 Based Intelligent Assistant | Python, FastAPI, React | ![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThkYjM0MTBmYzExOTQyZmNlMTA0ODFmMjU5Y2EwYzQxN2UyYjhlOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/du3J3cXyzhj75IOgvA/giphy.gif) |
-| **[E-Commerce Platform](https://github.com/...)** | Full-Stack E-Commerce Platform | TypeScript, Next.js, NestJS | ![Demo](https://media.giphy.com/media/.../giphy.gif) |
+| **[scrapy-service](https://github.com/DellDi/kms-scrapy)** | A Scrapy-based service for web scraping | Python, Scrapy, fastAPI | [kms-scrapy](https://poc.new-see.com:88/scrapy/api/docs) |
+| **[fastify-tools](https://github.com/DellDi/fastify-tools)** | Full-Stack Fastify-based tools | TypeScript, Next.js, NestJS | ![Demo](https://media.giphy.com/media/.../giphy.gif) |
 
 ## 📈 Activity Statistics
 
 <div align="center">
-  
+
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DellDi&theme=github-dark&area=true&hide_border=true)
-  
+
 </div>
 
 ## 🎯 Recent Goals
