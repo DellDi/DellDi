@@ -32,6 +32,7 @@
 |------|------|--------|------|
 | **[scrapy-service](https://github.com/DellDi/kms-scrapy)** | A Scrapy-based service for web scraping | Python, Scrapy, fastAPI | [kms-scrapy](https://poc.new-see.com:88/scrapy/api/docs) |
 | **[fastify-tools](https://github.com/DellDi/fastify-tools)** | Full-Stack Fastify-based tools | TypeScript, Next.js, NestJS | ![Demo](https://media.giphy.com/media/.../giphy.gif) |
+| **[tools-aigc](https://github.com/DellDi/tools-aigc)** | 通用OpenAI兼容模型的function call工具集合调用服务 | Python, FastAPI, PostgreSQL | [文档](https://github.com/DellDi/tools-aigc/blob/main/docs/architecture.md) |
 
 ## 📈 活跃度统计
 
