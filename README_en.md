@@ -46,9 +46,9 @@
 
 ## 🎯 Recent Goals
 
-- [x] Complete Distributed Systems Course
-- [ ] Release React Component Library
-- [ ] Obtain AWS Certification
+- [x] Complete autogen related api initialization and database design
+- [ ] Complete autogen-fastapi-postgres: support intent recognition, tokenization
+- [ ] Complete tools-aigc support langchain
 
 ## 🤖 Fun Stats
 
