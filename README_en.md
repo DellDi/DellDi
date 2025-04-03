@@ -32,6 +32,8 @@
 |---------|-------------|------------|------|
 | **[AI Assistant](https://github.com/...)** | GPT-4 Based Intelligent Assistant | Python, FastAPI, React | ![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThkYjM0MTBmYzExOTQyZmNlMTA0ODFmMjU5Y2EwYzQxN2UyYjhlOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/du3J3cXyzhj75IOgvA/giphy.gif) |
 | **[E-Commerce Platform](https://github.com/...)** | Full-Stack E-Commerce Platform | TypeScript, Next.js, NestJS | ![Demo](https://media.giphy.com/media/.../giphy.gif) |
+| **[AI智能工具](https://github.com/DellDi/tools-aigc)** | AI智能工具 | Python, FastAPI, React | ![Demo](https://media.giphy.com/media/.../giphy.gif) |
+| **[AutoGen FastAPI PostgreSQL](https://github.com/DellDi/autogen-fastapi-postgres)** | AutoGen FastAPI PostgreSQL | Python, FastAPI, PostgreSQL | ![Demo](https://media.giphy.com/media/.../giphy.gif) |
 
 ## 📈 Activity Statistics
 

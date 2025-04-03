@@ -32,6 +32,8 @@
 |------|------|--------|------|
 | **[AI Assistant](https://github.com/...)** | 基于GPT-4的智能助手 | Python, FastAPI, React | ![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThkYjM0MTBmYzExOTQyZmNlMTA0ODFmMjU5Y2EwYzQxN2UyYjhlOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/du3J3cXyzhj75IOgvA/giphy.gif) |
 | **[E-Commerce Platform](https://github.com/...)** | 全栈电商平台 | TypeScript, Next.js, NestJS | ![Demo](https://media.giphy.com/media/.../giphy.gif) |
+| **[AI智能工具](https://github.com/DellDi/tools-aigc)** | AI智能工具 | Python, FastAPI, React | ![Demo](https://media.giphy.com/media/.../giphy.gif) |
+| **[AutoGen FastAPI PostgreSQL](https://github.com/DellDi/autogen-fastapi-postgres)** | AutoGen FastAPI PostgreSQL | Python, FastAPI, PostgreSQL | ![Demo](https://media.giphy.com/media/.../giphy.gif) |
 
 ## 📈 活跃度统计
 
@@ -43,9 +45,10 @@
 
 ## 🎯 近期目标
 
-- [x] 完成分布式系统课程
-- [ ] 发布 React 组件库
-- [ ] 获得 AWS 认证
+- [x] 完成autogen相关api的初始化和数据库设计
+- [ ] 完成autogen-fastapi-postgres：支持意图识别、分词技术
+- [ ] 完成tools-aigc 支持langchain
+
 
 ## 🤖 趣味数据
 
