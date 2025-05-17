@@ -20,21 +20,26 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### 后端技术
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-092E20?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-2980B9?style=for-the-badge&logo=scrapy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🌟 明星项目
 
 | 项目 | 描述 | 技术栈 | 演示 |
 |------|------|--------|------|
-| **[AI智能工具](https://github.com/DellDi/tools-aigc)** | AI智能工具 | Python, FastAPI, React | ![Demo](https://media.giphy.com/media/.../giphy.gif) |
+| **[AI智能工具](https://github.com/DellDi/tools-aigc)** | AI智能工具 | Python, FastAPI | ![Demo](https://media.giphy.com/media/.../giphy.gif) |
 | **[AutoGen FastAPI PostgreSQL](https://github.com/DellDi/autogen-fastapi-postgres)** | AutoGen FastAPI PostgreSQL | Python, FastAPI, PostgreSQL | ![Demo](https://media.giphy.com/media/.../giphy.gif) |
-| **[scrapy-service](https://github.com/DellDi/kms-scrapy)** | A Scrapy-based service for web scraping | Python, Scrapy, fastAPI | [kms-scrapy](https://poc.new-see.com:88/scrapy/api/docs) |
-| **[fastify-tools](https://github.com/DellDi/fastify-tools)** | Full-Stack Fastify-based tools | TypeScript, Next.js, NestJS | ![Demo](https://media.giphy.com/media/.../giphy.gif) |
-| **[tools-aigc](https://github.com/DellDi/tools-aigc)** | 通用OpenAI兼容模型的function call工具集合调用服务 | Python, FastAPI, PostgreSQL | [文档](https://github.com/DellDi/tools-aigc/blob/main/docs/architecture.md) |
+| **[scrapy-service](https://github.com/DellDi/kms-scrapy)** | 一个爬虫服务面向jira系统、kms知识库、dify知识库上传 | Python, Scrapy, fastAPI | ![Demo](./public/scrapy-gif.gif) |
+| **[fastify-tools](https://github.com/DellDi/fastify-tools)** | 面向个人的 [Full-Stack](https://dify.yswg360.com/next) Fastify tools | TypeScript, Next.js, NestJS | ![Demo](./public/fastify-tools.png) |
+| **[tools-aigc](https://github.com/DellDi/tools-aigc)** | 通用OpenAI兼容模型的function call工具集合调用服务 | Python, FastAPI, PostgreSQL | [文档](https://github.com/DellDi/tools-aigc/blob/main/README.md) |
+| **[openai-agents-workflow-designer](https://github.com/DellDi/openai-agents-workflow-designer)** | 一个可视化工具，帮助用户设计、配置和生成基于OpenAI Assistants API的多代理工作流系统。 | Python, openai | ![Demo](./public/image.png) |
 
 ## 📈 活跃度统计
 
