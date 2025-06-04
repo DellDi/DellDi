@@ -35,12 +35,13 @@
 | 项目 | 描述 | 技术栈 | 演示 |
 |------|------|--------|------|
 | **[AI智能工具](https://github.com/DellDi/tools-aigc)** | AI智能工具 | Python, FastAPI | ![Demo](https://media.giphy.com/media/.../giphy.gif) |
-| **[AutoGen FastAPI PostgreSQL](https://github.com/DellDi/autogen-fastapi-postgres)** | AutoGen FastAPI PostgreSQL | Python, FastAPI, PostgreSQL | ![Demo](https://media.giphy.com/media/.../giphy.gif) |
 | **[scrapy-service](https://github.com/DellDi/kms-scrapy)** | 一个爬虫服务面向jira系统、kms知识库、dify知识库上传 | Python, Scrapy, fastAPI | ![Demo](./public/scrapy-gif.gif) |
 | **[fastify-tools](https://github.com/DellDi/fastify-tools)** | 面向个人的 [Full-Stack](https://dify.yswg360.com/next) Fastify tools | TypeScript, Next.js, NestJS | ![Demo](./public/fastify-tools.png) |
 | **[tools-aigc](https://github.com/DellDi/tools-aigc)** | 通用OpenAI兼容模型的function call工具集合调用服务 | Python, FastAPI, PostgreSQL | [文档](https://github.com/DellDi/tools-aigc/blob/main/README.md) |
 | **[openai-agents-workflow-designer](https://github.com/DellDi/openai-agents-workflow-designer)** | 一个可视化工具，帮助用户设计、配置和生成基于OpenAI Assistants API的多代理工作流系统。 | Python, openai | ![Demo](./public/image.png) |
-
+| **[dingtalk-ai-robot](https://github.com/DellDi/dingtalk-ai-robot)** | 钉钉AI机器人 - 问答、提单、日志、jira审核 | Python, FastAPI, AutoGen | ![Demo](./public/dingding-talk.png) |
+| **[dify-plugins](https://github.com/DellDi/dify-plugins)** | Dify-速查校准检索插件（业务） | Python, chrome, transform | ![Demo](./public/dify-plugin.png) |
+| **[AutoGen FastAPI PostgreSQL](https://github.com/DellDi/autogen-fastapi-postgres)** | AutoGen FastAPI PostgreSQL | Python, FastAPI, PostgreSQL | ![Demo](https://media.giphy.com/media/.../giphy.gif) |
 ## 📈 活跃度统计
 
 <div align="center">
