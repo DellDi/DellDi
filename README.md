@@ -12,15 +12,18 @@
 ## 🚀 技术栈 & 工具
 
 ### 编程语言
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### 前端技术
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
 ### 后端技术
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -29,6 +32,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/Scrapy-2980B9?style=for-the-badge&logo=scrapy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🌟 明星项目
 
@@ -53,8 +57,12 @@
 ## 🎯 近期目标
 
 - [x] 完成autogen相关api的初始化和数据库设计
-- [ ] 完成autogen-fastapi-postgres：支持意图识别、分词技术
-- [ ] 完成tools-aigc 支持langchain
+- [x] 完成autogen-fastapi-postgres：支持意图识别、分词技术
+- [x] 完成tools-aigc 支持langchain
+- [x] 完成dingtalk-ai-robot：支持钉钉机器人
+- [x] 完成dify-plugins：支持Dify插件
+- [x] 完成fastify-tools：支持Fastify工具\dify\jira 相关智能工作流的接入
+- [ ] DDD驱动和 BMAD 模式下的项目架构设计、图谱数据库 cube.dev、neo4j架构设计、实现一个单体智能体的 ReAct的分析能力
 
 ## 🤖 趣味数据
 
