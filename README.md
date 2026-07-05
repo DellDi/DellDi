@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile!;Full-Stack+Developer;Tech+Enthusiast;Open+Source+Contributor" alt="动态打字效果标题" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;Full-Stack+Developer;Tech+Enthusiast;Open+Source+Contributor" alt="动态打字效果标题" />
 </p>
 
 <div align="center">
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=DellDi&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DellDi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DellDi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
