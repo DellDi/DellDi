@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3600&pause=900&color=0F766E&center=true&vCenter=true&width=760&height=36&lines=Building+AI-native+products;Making+complex+workflows+legible;TypeScript+%2F+Python+%2F+data+systems;Designing+for+reliable+defaults" alt="DellDi animated profile signal" />
+</p>
+
 <div align="center">
 
 # DellDi
@@ -6,10 +10,22 @@
 
 Based in Hangzhou. I like turning complex business workflows into systems that are easy to verify, operate, and evolve.
 
+![Now building](https://img.shields.io/badge/now%20building-AI--native%20products-0F766E?style=flat-square)
+![Primary stack](https://img.shields.io/badge/primary%20stack-TypeScript%20%2F%20Python-334155?style=flat-square)
+![Base](https://img.shields.io/badge/base-Hangzhou-64748B?style=flat-square)
+
 [![GitHub](https://img.shields.io/badge/GitHub-DellDi-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/DellDi)
 [![TypeScript](https://img.shields.io/badge/TypeScript-primary%20stack-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-AI%20%26%20data-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Profile updated](https://img.shields.io/github/last-commit/DellDi/DellDi?label=profile%20updated&style=flat-square&color=6B7280)](https://github.com/DellDi/DellDi/commits/main)
+
+<table>
+  <tr>
+    <td align="center"><sub>BUILDING</sub><br><strong>AI-native products</strong></td>
+    <td align="center"><sub>SHIPPING</sub><br><strong>Reliable workflows</strong></td>
+    <td align="center"><sub>KEEPING</sub><br><strong>Useful notes</strong></td>
+  </tr>
+</table>
 
 </div>
 
@@ -81,8 +97,11 @@ The operating principle is simple: **deterministic systems handle reliability; A
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DellDi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&custom_title=DellDi%20on%20GitHub" height="165" alt="DellDi GitHub overview" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DellDi&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165" alt="Most used languages" />
+  <img src="https://streak-stats.demolab.com?user=DellDi&theme=transparent&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" height="165" alt="DellDi contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DellDi&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20signal" alt="DellDi contribution activity graph" />
 </p>
 
 ## Contact
